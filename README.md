@@ -5,4 +5,4 @@ This repository provides data and supplementary material to the following paper 
 
 All datasets that were obtained during charecterization of the device are included here. The data are written to .xlsx files and consequently processed and visualized in Jupyter Notebook which is also a part of the repository.
 
-Furthermore, we include a table with the [detailed comparison of digital delay lines](https://link), both research-grade and commercially available ones.
+Furthermore, we include a table with the [detailed comparison of digital delay lines](https://github.com/glebmmazin/delayline/blob/main/DDLs_comparison.pdf), both research-grade and commercially available ones.
